@@ -1,0 +1,52 @@
+CALCULATOR
+Enter the choice of your operation
+1 Addition 2 Subtraction 3 Multiplication 4 Division 5 AND 6 OR 7 NOT 8 LeftShift 9 RightShift 10 Exit
+1
+Enter the first operand
+20
+Enter the second operand
+20
+The result =40
+Enter the choice of your operation
+1 Addition 2 Subtraction 3 Multiplication 4 Division 5 AND 6 OR 7 NOT 8 LeftShift 9 RightShift 10 Exit
+2
+Enter the first operand
+30
+Enter the second operand
+20
+The result =10
+Enter the choice of your operation
+1 Addition 2 Subtraction 3 Multiplication 4 Division 5 AND 6 OR 7 NOT 8 LeftShift 9 RightShift 10 Exit
+3
+Enter the first operand
+2
+Enter the second operand
+3
+The result =6
+Enter the choice of your operation
+1 Addition 2 Subtraction 3 Multiplication 4 Division 5 AND 6 OR 7 NOT 8 LeftShift 9 RightShift 10 Exit
+4
+Enter the first operand
+6
+Enter the second operand
+2
+The result =3
+Enter the choice of your operation
+1 Addition 2 Subtraction 3 Multiplication 4 Division 5 AND 6 OR 7 NOT 8 LeftShift 9 RightShift 10 Exit
+5
+Enter the first operand
+10
+Enter the second operand
+45
+The result =8
+Enter the choice of your operation
+1 Addition 2 Subtraction 3 Multiplication 4 Division 5 AND 6 OR 7 NOT 8 LeftShift 9 RightShift 10 Exit
+8
+Enter the operand
+2
+The result =4
+Enter the choice of your operation
+1 Addition 2 Subtraction 3 Multiplication 4 Division 5 AND 6 OR 7 NOT 8 LeftShift 9 RightShift 10 Exit
+10
+student@student-HP-dx2480-MT-FX801PA:~/mtech-csn-x86-assembly-jan-2012/assignments/qn5$ 
+

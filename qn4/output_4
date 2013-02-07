@@ -1,0 +1,17 @@
+Enter the choice
+1 celsius to fahrenhiet
+2 fahernhiet to celsius
+1
+Enter the celsius
+50
+The result =122
+student@student-HP-dx2480-MT-FX801PA:~/mtech-csn-x86-assembly-jan-2012/assignments/qn4$ ./soln4.out
+Enter the choice
+1 celsius to fahrenhiet
+2 fahernhiet to celsius
+2
+Enter the fahrenhiet
+122
+The result =50
+student@student-HP-dx2480-MT-FX801PA:~/mtech-csn-x86-assembly-jan-2012/assignments/qn4$ 
+

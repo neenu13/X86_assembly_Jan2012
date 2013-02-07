@@ -1,0 +1,14 @@
+student@student-HP-dx2480-MT-FX801PA:~/mtech-csn-x86-assembly-jan-2012/assignments/qn3$ ./soln3.out
+Enter your age
+12
+Not Eligible for voting
+student@student-HP-dx2480-MT-FX801PA:~/mtech-csn-x86-assembly-jan-2012/assignments/qn3$ ./soln3.out
+Enter your age
+18
+Eligible for voting
+student@student-HP-dx2480-MT-FX801PA:~/mtech-csn-x86-assembly-jan-2012/assignments/qn3$ ./soln3.out
+Enter your age
+54
+Eligible for voting
+student@student-HP-dx2480-MT-FX801PA:~/mtech-csn-x86-assembly-jan-2012/assignments/qn3$ 
+
